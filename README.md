@@ -1,4 +1,4 @@
-# End-to-End-Human-Simulator
+# An End-to-End Human Simulator
 
 
 Link to the paper: [An End-to-End Human Simulator for Task-Oriented Multimodal Human-Robot Collaboration](https://arxiv.org/abs/2304.00584)
